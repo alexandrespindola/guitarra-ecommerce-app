@@ -13,14 +13,14 @@ function App() {
             <div className="row justify-content-center justify-content-md-between">
                 <div className="col-8 col-md-3">
                     <a href="index.html">
-                        <img className="img-fluid" src="./public/img/logo.svg" alt="imagen logo" />
+                        <img className="img-fluid" src="img/logo.svg" alt="imagen logo" />
                     </a>
                 </div>
                 <nav className="col-md-6 a mt-5 d-flex align-items-start justify-content-end">
                     <div 
                         className="carrito"
                     >
-                        <img className="img-fluid" src="./public/img/carrito.png" alt="imagen carrito" />
+                        <img className="img-fluid" src="img/carrito.png" alt="imagen carrito" />
 
                         <div id="carrito" className="bg-white p-3">
                             <p className="text-center">El carrito esta vacio</p>
@@ -37,7 +37,7 @@ function App() {
                                 <tbody>
                                     <tr>
                                         <td>
-                                            <img className="img-fluid" src="./public/img/guitarra_02.jpg" alt="imagen guitarra" />
+                                            <img className="img-fluid" src="img/guitarra_02.jpg" alt="imagen guitarra" />
                                         </td>
                                         <td>SRV</td>
                                         <td className="fw-bold">
@@ -85,7 +85,7 @@ function App() {
         <div className="row mt-5">
             <div className="col-md-6 col-lg-4 my-4 row align-items-center">
                 <div className="col-4">
-                    <img className="img-fluid" src="./public/img/guitarra_01.jpg" alt="imagen guitarra" />
+                    <img className="img-fluid" src="img/guitarra_01.jpg" alt="imagen guitarra" />
                 </div>
                 <div className="col-8">
                     <h3 className="text-black fs-4 fw-bold text-uppercase">Lukather</h3>
@@ -100,7 +100,7 @@ function App() {
 
             <div className="col-md-6 col-lg-4 my-4 row align-items-center">
                 <div className="col-4">
-                    <img className="img-fluid" src="./public/img/guitarra_02.jpg" alt="imagen guitarra"/>
+                    <img className="img-fluid" src="img/guitarra_02.jpg" alt="imagen guitarra"/>
                 </div>
                 <div className="col-8">
                     <h3 className="text-black fs-4 fw-bold text-uppercase">SRV</h3>
@@ -115,7 +115,7 @@ function App() {
 
             <div className="col-md-6 col-lg-4 my-4 row align-items-center">
                 <div className="col-4">
-                    <img className="img-fluid" src="./public/img/guitarra_03.jpg" alt="imagen guitarra"/>
+                    <img className="img-fluid" src="img/guitarra_03.jpg" alt="imagen guitarra"/>
                 </div>
                 <div className="col-8">
                     <h3 className="text-black fs-4 fw-bold text-uppercase">Borland</h3>
@@ -130,7 +130,7 @@ function App() {
 
             <div className="col-md-6 col-lg-4 my-4 row align-items-center">
                 <div className="col-4">
-                    <img className="img-fluid" src="./public/img/guitarra_04.jpg" alt="imagen guitarra"/>
+                    <img className="img-fluid" src="img/guitarra_04.jpg" alt="imagen guitarra"/>
                 </div>
                 <div className="col-8">
                     <h3 className="text-black fs-4 fw-bold text-uppercase">Vai</h3>
@@ -145,7 +145,7 @@ function App() {
 
             <div className="col-md-6 col-lg-4 my-4 row align-items-center">
                 <div className="col-4">
-                    <img className="img-fluid" src="./public/img/guitarra_05.jpg" alt="imagen guitarra"/>
+                    <img className="img-fluid" src="img/guitarra_05.jpg" alt="imagen guitarra"/>
                 </div>
                 <div className="col-8">
                     <h3 className="text-black fs-4 fw-bold text-uppercase">Thompson</h3>
@@ -160,7 +160,7 @@ function App() {
 
             <div className="col-md-6 col-lg-4 my-4 row align-items-center">
                 <div className="col-4">
-                    <img className="img-fluid" src="./public/img/guitarra_06.jpg" alt="imagen guitarra"/>
+                    <img className="img-fluid" src="img/guitarra_06.jpg" alt="imagen guitarra"/>
                 </div>
                 <div className="col-8">
                     <h3 className="text-black fs-4 fw-bold text-uppercase">White</h3>
@@ -175,7 +175,7 @@ function App() {
 
             <div className="col-md-6 col-lg-4 my-4 row align-items-center">
                 <div className="col-4">
-                    <img className="img-fluid" src="./public/img/guitarra_07.jpg" alt="imagen guitarra"/>
+                    <img className="img-fluid" src="img/guitarra_07.jpg" alt="imagen guitarra"/>
                 </div>
                 <div className="col-8">
                     <h3 className="text-black fs-4 fw-bold text-uppercase">Cobain</h3>
@@ -189,7 +189,7 @@ function App() {
             </div>
             <div className="col-md-6 col-lg-4 my-4 row align-items-center">
                 <div className="col-4">
-                    <img className="img-fluid" src="./public/img/guitarra_08.jpg" alt="imagen guitarra"/>
+                    <img className="img-fluid" src="img/guitarra_08.jpg" alt="imagen guitarra"/>
                 </div>
                 <div className="col-8">
                     <h3 className="text-black fs-4 fw-bold text-uppercase">Dale</h3>
@@ -203,7 +203,7 @@ function App() {
             </div>
             <div className="col-md-6 col-lg-4 my-4 row align-items-center">
                 <div className="col-4">
-                    <img className="img-fluid" src="./public/img/guitarra_09.jpg" alt="imagen guitarra"/>
+                    <img className="img-fluid" src="img/guitarra_09.jpg" alt="imagen guitarra"/>
                 </div>
                 <div className="col-8">
                     <h3 className="text-black fs-4 fw-bold text-uppercase">Krieger</h3>
@@ -217,7 +217,7 @@ function App() {
             </div>
             <div className="col-md-6 col-lg-4 my-4 row align-items-center">
                 <div className="col-4">
-                    <img className="img-fluid" src="./public/img/guitarra_10.jpg" alt="imagen guitarra"/>
+                    <img className="img-fluid" src="img/guitarra_10.jpg" alt="imagen guitarra"/>
                 </div>
                 <div className="col-8">
                     <h3 className="text-black fs-4 fw-bold text-uppercase">Campbell</h3>
@@ -231,7 +231,7 @@ function App() {
             </div>
             <div className="col-md-6 col-lg-4 my-4 row align-items-center">
                 <div className="col-4">
-                    <img className="img-fluid" src="./public/img/guitarra_11.jpg" alt="imagen guitarra"/>
+                    <img className="img-fluid" src="img/guitarra_11.jpg" alt="imagen guitarra"/>
                 </div>
                 <div className="col-8">
                     <h3 className="text-black fs-4 fw-bold text-uppercase">Reed</h3>
@@ -245,7 +245,7 @@ function App() {
             </div>
             <div className="col-md-6 col-lg-4 my-4 row align-items-center">
                 <div className="col-4">
-                    <img className="img-fluid" src="./public/img/guitarra_12.jpg" alt="imagen guitarra"/>
+                    <img className="img-fluid" src="img/guitarra_12.jpg" alt="imagen guitarra"/>
                 </div>
                 <div className="col-8">
                     <h3 className="text-black fs-4 fw-bold text-uppercase">Hazel</h3>
