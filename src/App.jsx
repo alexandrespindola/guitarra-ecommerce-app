@@ -1,11 +1,13 @@
 import "./App.scss";
-import "./index.css"
+import Header from "./components/Header";
 
 function App() {
   // const [count, setCount] = useState(0);
 
   return (
     <>
+      <Header />
+      
       <header className="py-5 header">
         <div className="container-xl">
             <div className="row justify-content-center justify-content-md-between">
